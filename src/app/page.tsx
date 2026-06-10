@@ -238,7 +238,7 @@ export default function LandingPage() {
       <ContactCenter
       useInvertedBackground={true}
       background={{
-        variant: "downward-rays-static"}}
+        variant: "radial-gradient"}}
       tag="Get in Touch"
       title="Book Your Appointment Today!"
       description="Ready for a fresh look? Schedule your visit to Wendy's Barbershop at Cut N Go."
