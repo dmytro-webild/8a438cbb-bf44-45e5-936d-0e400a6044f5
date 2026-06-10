@@ -245,6 +245,7 @@ export default function LandingPage() {
       inputPlaceholder="Enter your email"
       buttonText="Send Message"
       termsText="By clicking Send Message you're confirming that you agree with our Terms and Conditions."
+      onSubmit={(email) => console.log('Contact form submitted with email:', email)}
     />
   </div>
 
