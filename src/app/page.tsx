@@ -85,7 +85,7 @@ export default function LandingPage() {
       ]}
       slides={[
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/male-barber-giving-his-client-nice-haircut_23-2149186489.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/male-barber-giving-his-client-nice-haircut_23-2149186489.jpg?_wi=1",
           imageAlt: "Modern barbershop interior with empty chairs",
         },
         {
@@ -232,7 +232,7 @@ export default function LandingPage() {
               imageAlt: "Portrait of Mike, a stylish barber",
             },
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/male-barber-giving-his-client-nice-haircut_23-2149186489.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/male-barber-giving-his-client-nice-haircut_23-2149186489.jpg?_wi=2",
           imageAlt: "female barber smiling professional",
         },
       ]}
